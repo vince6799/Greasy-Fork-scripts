@@ -6,7 +6,7 @@
 // @include *://zhuanlan.zhihu.com/*
 //require	http://code.jquery.com/jquery-2.1.4.min.js
 // @description:zh-cn 隐藏知乎(zhihu)的头部固定标题和右侧固定侧边栏，显示全部回复
-// @version 2.2.2
+// @version 2.2.3
 // @description 隐藏知乎(zhihu)的头部固定标题和右侧固定侧边栏，显示全部回复
 // ==/UserScript==
 
